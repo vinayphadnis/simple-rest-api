@@ -1,0 +1,23 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Simple rest api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayphadnis/simple-rest-api.git"
+  },
+  "author": "Vinay Phadnis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinayphadnis/simple-rest-api/issues"
+  },
+  "homepage": "https://github.com/vinayphadnis/simple-rest-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
